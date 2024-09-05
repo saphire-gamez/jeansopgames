@@ -37,7 +37,7 @@ export function Home() {
       <section class="my-32 flex w-full flex-col items-center justify-center gap-5">
         <Banner class="h-10 sm:h-14" />
         <p class="text-center">
-          An open-source unblocked games website built with simplicity in mind.
+          An unblocked games website built with simplicity in mind.
         </p>
         <div class="flex gap-5">
           <motion.a
