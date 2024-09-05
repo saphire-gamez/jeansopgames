@@ -13,14 +13,14 @@ export function Footer() {
       <div class="flex flex-1 flex-col items-start justify-center gap-5">
         <Banner class="h-6" />
         <p class="text-xs">
-          An unblocked games website built with simplicity in mind.
+          DEVELOPED | POWERED BY SAPHIRE GAMES TM
         </p>
         <div class="flex items-center gap-5">
           <a
-            href="https://example.com"
+            href="https://ocps.unibutton.com"
             target="_blank"
             class="transition-colors hover:text-accent-primary"
-            aria-label="Nothing here yet.."
+            aria-label="Visit Saphire Games!"
           >
             <PiGithubLogoBold />
           </a>
