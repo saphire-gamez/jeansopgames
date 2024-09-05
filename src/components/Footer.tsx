@@ -13,38 +13,38 @@ export function Footer() {
       <div class="flex flex-1 flex-col items-start justify-center gap-5">
         <Banner class="h-6" />
         <p class="text-xs">
-          An open-source unblocked games website built with simplicity in mind.
+          An unblocked games website built with simplicity in mind.
         </p>
         <div class="flex items-center gap-5">
           <a
-            href="https://github.com/Radon-Games/Radon-Games"
+            href="https://example.com"
             target="_blank"
             class="transition-colors hover:text-accent-primary"
-            aria-label="GitHub"
+            aria-label="Nothing here yet.."
           >
             <PiGithubLogoBold />
           </a>
           <a
-            href="https://discord.gg/unblock"
+            href="https://example.com"
             target="_blank"
             class="transition-colors hover:text-accent-primary"
-            aria-label="Discord"
+            aria-label="Nothing here yet.."
           >
             <PiDiscordLogoBold />
           </a>
           <a
-            href="https://www.patreon.com/Radon_Games"
+            href="https://example.com"
             target="_blank"
             class="transition-colors hover:text-accent-primary"
-            aria-label="Patreon"
+            aria-label="Nothing here yet.."
           >
             <PiPatreonLogoBold />
           </a>
           <a
-            href={`https://github.com/Radon-Games/Radon-Games/releases/tag/v${version}`}
+            href={`https://example.com`}
             target="_blank"
             class="flex items-center gap-2 hover:text-accent-primary"
-            aria-label="Changelog"
+            aria-label="Nothing here yet.."
           >
             <PiGitBranchBold /> <span class="text-sm">v{version}</span>
           </a>
@@ -63,7 +63,7 @@ export function Footer() {
           </a>
           <a
             target="_blank"
-            href="https://discord.gg/t3d7wDA9WY"
+            href="https://example.com"
             class="hover:text-accent-primary"
           >
             Request
