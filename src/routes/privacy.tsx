@@ -11,7 +11,7 @@ export function Privacy() {
       <h1 class="text-2xl">Privacy Policy</h1>
       <p class="font-normal tracking-wide">Last updated: September 26, 2023</p>
       <p class="font-normal tracking-wide">
-        This Privacy Policy describes how Radon Games ("we," "us," or "our")
+        This Privacy Policy describes how Jean's OP Games ("we," "us," or "our")
         collects, uses, and discloses information, including personal
         information, that you provide to us or that we collect when you visit
         our website. By accessing or using our website, you consent to the
@@ -191,11 +191,11 @@ export function Privacy() {
         If you have any questions or concerns about our Privacy Policy or our
         data practices, please contact us at{" "}
         <a
-          href="mailto:contact@radon.games"
+          href="mailto:contact@helpa.dauihdasudhj"
           target="_blank"
           class="underline transition-all hover:text-accent-primary"
         >
-          contact@radon.games
+          No contact yet
         </a>
         .
       </p>
