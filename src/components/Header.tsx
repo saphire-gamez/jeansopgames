@@ -4,8 +4,6 @@ import { IconType } from "react-icons/lib";
 import {
   PiGameControllerBold,
   PiHouseBold, // PiUserBold,
-  PiGithubLogoBold,
-  PiDiscordLogoBold, // PiShoppingBagOpenBold
   PiGearBold,
   PiDetectiveBold
 } from "react-icons/pi";
@@ -83,14 +81,14 @@ export function Header() {
         </form>
         <Link href="/preferences" icon={PiGearBold} label="Preferences" />
         <Link
-          href="https://github.com/Radon-Games/Radon-Games"
-          icon={PiGithubLogoBold}
-          label="GitHub"
+          href="https://ocps.unibutton.com"
+          icon={PiGameControllerBold}
+          label="Saphire Games"
         />
         <Link
-          href="https://discord.gg/unblock"
-          icon={PiDiscordLogoBold}
-          label="Discord"
+          href="https://example.com"
+          icon={PiGameControllerBold}
+          label="Nothing here uet.."
         />
       </div>
     </motion.nav>
